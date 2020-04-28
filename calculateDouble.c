@@ -8,5 +8,6 @@ int main(){
     printf("num2: ");
     scanf("lf", &num2);
 
+
     printf("plus: %lf minus: %lf multifly: %lf divide: %lf", num1+num2, num1-num2, num1*num2, num1/num2);
 }
