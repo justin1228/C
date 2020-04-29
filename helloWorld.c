@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void main(){
-    printf(" \a \n");
+int main(){
+    printf(" \a \a \n");
 
     return 0;
 }
